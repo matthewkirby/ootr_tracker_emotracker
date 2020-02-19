@@ -6,7 +6,7 @@
       "author": "Xopar",
       "game_name": "Ocarina of Time Randomizer",
       "version": "1.0.3",
-      "flags": ["chathud" ]
+      "flags": ["chathud" ],
       "uid": "ootrando_xopar",
       "link": "https://github.com/matthewkirby/ootr_tracker_emotracker/raw/master/ootrando_xopar.zip",
       "variants": [
