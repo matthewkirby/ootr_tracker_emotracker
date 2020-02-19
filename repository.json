@@ -8,7 +8,7 @@
       "version": "1.0.3",
       "flags": ["chathud" ]
       "uid": "ootrando_xopar",
-      "link": "perm link to hosted .zip file",
+      "link": "https://github.com/matthewkirby/ootr_tracker_emotracker/raw/master/ootrando_xopar.zip",
       "variants": [
         {
           "name": "Compact Item Tracker",
