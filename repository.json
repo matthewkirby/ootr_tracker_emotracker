@@ -1,35 +1,29 @@
 {
-  "name": "Trackers by Xopar",
-  "packages": [
-    {
-      "name": "OoT Randomizer Item Tracker",
-      "author": "Xopar",
-      "game_name": "Ocarina of Time Randomizer",
-      "version": "1.0.3",
-      "flags": ["chathud" ],
-      "uid": "ootrando_xopar",
-      "link": "https://github.com/matthewkirby/ootr_tracker_emotracker/raw/master/ootrando_xopar.zip",
-      "variants": [
-        {
-          "name": "Compact Item Tracker",
-          "flags": [ "chathud" ]
-        },
-        {
-          "name": "Extended Item Tracker",
-          "flags": [ "chathud" ]
-        },
-        {
-          "name": "Compact Item Tracker + Keysanity",
-          "flags": [ "chathud" ]
-        },
-        {
-          "name": "Extended Item Tracker + Keysanity",
-          "flags": [ "chathud" ]
-        }
-      ]
-    }
-  ]
+	"name": "Trackers by Xopar",
+	"packages": [{
+		"name": "OoT Randomizer Item Tracker",
+		"author": "Xopar",
+		"game_name": "Ocarina of Time Randomizer",
+		"version": "1.0.3",
+		"flags": ["chathud"],
+		"uid": "ootrando_xopar",
+		"link": "https://matthewkirby.github.io/ootr_tracker_emotracker/ootrando_xopar.zip",
+		"variants": [{
+				"name": "Compact Item Tracker",
+				"flags": ["chathud"]
+			},
+			{
+				"name": "Extended Item Tracker",
+				"flags": ["chathud"]
+			},
+			{
+				"name": "Compact Item Tracker + Keysanity",
+				"flags": ["chathud"]
+			},
+			{
+				"name": "Extended Item Tracker + Keysanity",
+				"flags": ["chathud"]
+			}
+		]
+	}]
 }
-
-
-
